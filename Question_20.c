@@ -80,6 +80,6 @@ if(kill==1){printf("deadlock occured");}
 
 else
 {
-	printf("Safe State");
+	printf("Safe State");// It is in safe state
 }
 }
